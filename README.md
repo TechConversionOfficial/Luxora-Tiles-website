@@ -1,11 +1,20 @@
-
 # Luxora Tiles Website: Presenting Premium Decorative Tiles Through a Refined Digital Experience
 
 **Luxora Tiles is a premium decorative tile and sanitaryware brand based in Morbi, Gujarat, India's ceramic manufacturing hub. Featured in the [Tech Conversion](https://techconversion.tech/) website portfolio, the [Luxora Tiles website](https://luxoratiles.com/) brings together metallic tile collections, product specifications, finish explorations, a tile quantity calculator and dealer discovery in one digital experience designed for architects, interior designers, dealers and property owners.**
 
-![Luxora Tiles Premium Website Homepage](PASTE_LUXORA_HOMEPAGE_IMAGE_URL_HERE)
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/luxora-tiles-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/luxora-tiles-website-mockup.webp" alt="Luxora Tiles premium website mockup by Tech Conversion" width="100%" />
+  </a>
+</p>
 
-*Luxora Tiles website homepage showcasing the brand's premium decorative tiles, metallic finishes and modern interior design positioning.*
+<p align="center">
+  <a href="https://luxoratiles.com/"><strong>Live website</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/portfolio"><strong>Tech Conversion portfolio</strong></a>
+  &nbsp;·&nbsp;
+  <a href="https://techconversion.tech/api/media/before-after/luxora-tiles-new-website-home-page.webp"><strong>Full-page website screenshot</strong></a>
+</p>
 
 | Project Detail | Information |
 |---|---|
@@ -97,10 +106,6 @@ Additional formats are also listed on the website.
 
 Displaying size information helps visitors understand the breadth of the range before making a detailed product enquiry.
 
-![Luxora Tiles Product Collections and Catalogue](PASTE_LUXORA_PRODUCT_COLLECTION_IMAGE_URL_HERE)
-
-*Product collection presentation featuring decorative wall tiles, available dimensions and premium surface designs.*
-
 ### 3. Highlighting Metallic Colour Collections
 
 A defining characteristic of the Luxora product range is its emphasis on metallic surfaces.
@@ -128,10 +133,6 @@ These descriptions help explain the visual differences buyers may need to consid
 
 Actual product suitability, durability and technical performance must be confirmed against the relevant manufacturer's specifications.
 
-![Luxora Tiles Gold Silver and Rose Gold Finishes](PASTE_LUXORA_METALLIC_FINISHES_IMAGE_URL_HERE)
-
-*Metallic finish presentation highlighting Luxora's gold, silver and rose-gold decorative tile collections.*
-
 ### 5. Integrating a Practical Tile Calculator
 
 One of the website's useful features is the **Luxora Tiles Calculator**.
@@ -157,10 +158,6 @@ This feature connects product browsing with practical project planning.
 
 The calculator's presence is verifiable on the website; this README does not claim its estimates have passed an independent mathematical or engineering audit.
 
-![Luxora Tiles Interactive Tile Calculator](PASTE_LUXORA_TILE_CALCULATOR_IMAGE_URL_HERE)
-
-*Tile calculator interface helping customers estimate tile quantities based on room measurements and selected tile sizes.*
-
 ### 6. Supporting Catalogue-Based Enquiries
 
 The website provides a route to its product catalogue, allowing customers and industry professionals to explore available collections.
@@ -177,10 +174,6 @@ Visitors can move from researching a collection to finding information about aut
 
 This supports a business model where product discovery may happen online while final selection, sampling and purchasing are arranged through physical distribution channels.
 
-![Luxora Tiles Dealer Finder and Enquiry Section](PASTE_LUXORA_DEALER_FINDER_IMAGE_URL_HERE)
-
-*Dealer discovery and enquiry experience connecting customers with sourcing information and business contact options.*
-
 ### 8. Providing Brand Background and Enquiry Routes
 
 The About section presents the company's published development timeline and its focus on decorative metallic surfaces.
@@ -192,6 +185,39 @@ Together, these elements help make the website useful to visitors at different s
 **Implementation note:** These observations describe the public-facing website and its available features. They do not independently establish the complete internal development process, CMS, plugins or third-party integrations used in the project.
 
 ## Project Visuals and Design Direction
+
+### Official Website Mockup
+
+The following Tech Conversion portfolio mockup presents Luxora Tiles as a premium decorative-surfaces website project.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/portfolio/luxora-tiles-website-mockup.webp">
+    <img src="https://techconversion.tech/api/media/portfolio/luxora-tiles-website-mockup.webp" alt="Luxora Tiles responsive website portfolio mockup" width="100%" />
+  </a>
+</p>
+
+*Click the image to open the full-resolution mockup.*
+
+### Full-Length Website Screenshot
+
+The following image is the complete homepage capture supplied through Tech Conversion's project media.
+
+<p align="center">
+  <a href="https://techconversion.tech/api/media/before-after/luxora-tiles-new-website-home-page.webp">
+    <img src="https://techconversion.tech/api/media/before-after/luxora-tiles-new-website-home-page.webp" alt="Luxora Tiles complete premium decorative tiles website homepage screenshot" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <strong>Click the screenshot to open the full-resolution image.</strong>
+</p>
+
+### Image Provenance
+
+The website mockup and full-page screenshot above are embedded from Tech Conversion's public project-media endpoints. They replace the original README placeholders and visually document the Luxora Tiles project.
+
+These images are **not evidence of measured increases in product enquiries, dealer leads, search rankings, page speed, conversions or revenue**. Because they are externally hosted, GitHub rendering depends on the Tech Conversion URLs remaining publicly accessible. For a self-contained repository, client-approved copies can later be stored in an `images/` directory and referenced with relative paths.
+
 
 Luxora Tiles belongs to a category where the visual presentation of the product is central to the buying decision.
 
@@ -237,10 +263,6 @@ Mobile visitors may need to browse tile finishes, check product information or c
 
 The responsive experience should therefore maintain readable product details, accessible navigation and practical enquiry controls across different screen sizes.
 
-![Luxora Tiles Website Desktop and Mobile View](PASTE_LUXORA_RESPONSIVE_WEBSITE_IMAGE_URL_HERE)
-
-*Desktop and mobile presentation of the Luxora Tiles website. Insert an authentic responsive screenshot or project mockup here.*
-
 ## Key Website Journeys
 
 | Visitor Objective | Public Website Destination |
@@ -277,11 +299,9 @@ No independent performance report, accessibility audit, structured-data validati
 
 ## Before and After
 
-A verified pair of screenshots documenting an earlier Luxora Tiles website and its subsequent production version was not available in the reviewed project materials.
+A full-page screenshot of the delivered Luxora Tiles website is available and included above. However, **no authenticated BEFORE screenshot or dated old-versus-new comparison was supplied for this project**, so this README does not manufacture a historical redesign comparison.
 
-For this reason, the project is presented as a **website portfolio case study**, not as a documented before-and-after redesign.
-
-If authentic screenshots from both versions become available, a future comparison can examine changes to navigation, product presentation, calculator usability, mobile layouts and enquiry journeys.
+Other documented transformations can be explored at [Tech Conversion's before-and-after gallery](https://techconversion.tech/before-after).
 
 No transformation metrics or improvement percentages have been attributed to the project without supporting measurement.
 
